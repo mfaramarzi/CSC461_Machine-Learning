@@ -6,5 +6,6 @@ The objective of this project was to train a model, able to judge if a tweet has
   <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/sentiments.png" />
 </p>
 
-![](images/sentiments.png)
-
+<p align="center">
+  <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/timeline.png" />
+</p>
